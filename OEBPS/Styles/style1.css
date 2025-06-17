@@ -1,0 +1,15 @@
+body {
+    font-family: "Noto Sans KR", sans-serif;
+    line-height: 1.6;
+    margin: 2em;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 1em;
+}
+
+p {
+    margin-bottom: 1em;
+    text-align: justify;
+} 
